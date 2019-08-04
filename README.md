@@ -1,3 +1,7 @@
+Fork to add bugfixes and modifications
+======================================
+
+
 ICTCore - A Unified Communications Framework for CTI
 ====================================================
 
